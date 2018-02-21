@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 Build your encrypted database with only 1 line of code. Fork of DATAStack with support for Encryption.
                        DESC
 
-  s.homepage         = 'https://github.com/flipacholas/EncryptedDATAStack'
+  s.homepage         = 'https://github.com/leoniknik/EncryptedDATAStack'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Rodrigo Copetti' => 'rodrigo.copetti@outlook.com' }
   s.source           = { :git => 'https://github.com/leoniknik/EncryptedDATAStack.git', :tag => s.version.to_s }
